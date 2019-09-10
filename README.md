@@ -1,5 +1,14 @@
 
-# Questions on how to use this model should be directed to
+# TCrelay Neuron model
+
+### Model files from the paper:
+
+### See also
+ModelDB: senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=232876
+OpenSourceBrain: http://www.opensourcebrain.org/projects/tcrelay-neuron-in-high-conductance-state-zeldenrust-et-al-2018
+
+
+### Questions on how to use this model should be directed to
 f.zeldenrust at neurophysiology.nl
 
 # Synopsis
