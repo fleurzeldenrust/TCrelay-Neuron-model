@@ -2,11 +2,13 @@
 # TCrelay Neuron model
 
 ### Model files from the paper:
+Zeldenrust, F., Chameau, P., & Wadman, W. J. (2018). Spike and burst coding in thalamocortical relay cells. PLOS Computational Biology, 14(2), e1005960. https://doi.org/10.1371/journal.pcbi.1005960
+
+Please cite this reference when using this model.
 
 ### See also: <br />
-ModelDB: senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=232876 <br />
+ModelDB: www.senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=232876 <br />
 OpenSourceBrain: www.opensourcebrain.org/projects/tcrelay-neuron-in-high-conductance-state-zeldenrust-et-al-2018 <br />
-
 
 ### Questions on how to use this model should be directed to
 f.zeldenrust at neurophysiology.nl
