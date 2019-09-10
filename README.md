@@ -1,14 +1,8 @@
-<html>
-<p>Model files from the paper:
-</p>
-<p>F. Zeldenrust, P. Chameau, W. J. Wadman, 'Spike and Burst Coding in
-Thalamocortical Relay Cells', PLoS Computational Biology, 2018
-</p>
-<p>Questions on how to use this model should be directed to
+
+# Questions on how to use this model should be directed to
 f.zeldenrust at neurophysiology.nl
-</p>
-<dl>
-  <dt>Synopsis</dt>
+
+# Synopsis
 <p>Mammalian thalamocortical relay (TCR) neurons switch their firing
 activity between a tonic spiking and a bursting regime. In a combined
 experimental and computational study, we investigated the features in
