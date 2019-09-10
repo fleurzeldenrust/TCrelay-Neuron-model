@@ -3,16 +3,16 @@
 
 ### Model files from the paper:
 
-### See also
-ModelDB: senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=232876
-OpenSourceBrain: http://www.opensourcebrain.org/projects/tcrelay-neuron-in-high-conductance-state-zeldenrust-et-al-2018
+### See also: <br />
+ModelDB: senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=232876 <br />
+OpenSourceBrain: www.opensourcebrain.org/projects/tcrelay-neuron-in-high-conductance-state-zeldenrust-et-al-2018 <br />
 
 
 ### Questions on how to use this model should be directed to
 f.zeldenrust at neurophysiology.nl
 
 # Synopsis
-<p>Mammalian thalamocortical relay (TCR) neurons switch their firing
+Mammalian thalamocortical relay (TCR) neurons switch their firing
 activity between a tonic spiking and a bursting regime. In a combined
 experimental and computational study, we investigated the features in
 the input signal that single spikes and bursts in the output spike
@@ -38,16 +38,14 @@ changes instead of current injection. Under "standard" conditions
 bursts are difficult to initiate, given the high degree of
 inactivation of the T-type calcium current. Strong and/or precisely
 timed inhibitory currents were able to remove this inactivation.
-</p>
-<dl>
-  <dt>Use<br/>
-  ---</dt>
-<p>There are three folders. For each folder: extract the archive, run
+
+# Use
+There are three folders. For each folder: extract the archive, run
 nrnivmodl in the channels directory (linux/unix) or mknrndll (mswin or
 mac os x) (see<br/>
 <a href="http://senselab.med.yale.edu/ModelDB/NEURON_DwnldGuide.html">http://senselab.med.yale.edu/ModelDB/NEURON_DwnldGuide.html</a> for more
 help) to compile the channels, and then run (use nrngui in linux/unix) the tc....hoc file.
-</p>
+
 <ol>
   <li>The 'current clamp' folder, simulates the experiments. It will
 result in the voltage traces (and resulting spike trains) used in
