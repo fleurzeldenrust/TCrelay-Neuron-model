@@ -60,7 +60,7 @@ figures 9-11. The used 'holding currents' are set as 'El1.stim.amp'
     generated voltage trajectory for El1.stim.amp = -0.7 ('holding
     potential' -80 mV):
 <p/>
-    <img src="./screenshot1.png" alt="screenshot 1"><p/>
+    <img src="https://github.com/fleurzeldenrust/TCrelay-Neuron-model/blob/master/screenshot1.png" alt="screenshot 1"><p/>
   </li><li>In the 'influence_ih_iT' folder, the current-clamp experiments are
 repeated, but now the h-current is reduced by a factor (see figure 12
 of the paper), that can be set at the top of the .hoc-file (as well as
